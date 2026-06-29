@@ -15,7 +15,7 @@
 在 Codex 中安装：
 
 ```
-$skill-installer install https://github.com/你的用户名/running-shoe-compare
+$skill-installer install https://github.com/cc-Change/running-shoe-compare
 ```
 
 或手动复制到 `$CODEX_HOME/skills/running-shoe-compare/`。
