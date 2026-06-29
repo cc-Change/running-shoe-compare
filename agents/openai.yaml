@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "跑鞋对比"
+  short_description: "结构化跑鞋数据管理与 Markdown 对比报告生成"
+  brand_color: "#F97316"
+  default_prompt: "用 $running-shoe-compare 对比我的跑鞋数据，分析最适合比赛日的选择"
+policy:
+  allow_implicit_invocation: true
